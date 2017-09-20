@@ -4,3 +4,6 @@ You may want to read my full blog post here :
 http://www.technoreply.com/autogrow-textarea-plugin-3-0/
 
 The plugin is licensed under Beerware. Go crazy!
+
+GOALS
+* Add option to control textarea size, not shrink, min height
